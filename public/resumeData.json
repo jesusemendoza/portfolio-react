@@ -2,7 +2,7 @@
   "main": {
     "name": "Jesus Mendoza",
     "occupation": "Software Developer",
-    "description": "I'm a versatile and passionate Full-Stack Software Developer, committed to delivering clean, functional code. My background in the military and entrepreneurship taught me how to deliver actionable results in high pressure environments, and I'm excited about working with people who share my enthusiasm for solving complex problems with creative solutions.",
+    "description": "",
     "image": "profilepic.jpg",
     "bio": "I'm a versatile and passionate Full-Stack Software Developer, committed to delivering clean, functional code. My background in the military and entrepreneurship taught me how to deliver actionable results in high pressure environments, and I'm excited about working with people who share my enthusiasm for solving complex problems with creative solutions.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -24,13 +24,13 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/jesusemendozax",
+        "url": "https://github.com/jesusemendoza",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "",
+    "skillmessage": "My background in the military and entrepreneurship taught me how to deliver actionable results in high pressure environments, and I'm excited about working with people who share my enthusiasm for solving complex problems with creative solutions.",
     "education": [
       {
         "school": "CodeFellows",
