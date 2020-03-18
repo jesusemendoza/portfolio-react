@@ -1,0 +1,133 @@
+{
+  "main": {
+    "name": "Jesus Mendoza",
+    "occupation": "Software Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "I'm a versatile and passionate Full-Stack Software Developer, committed to delivering clean, functional code. My background in the military and entrepreneurship taught me how to deliver actionable results in high pressure environments, and I'm excited about working with people who share my enthusiasm for solving complex problems with creative solutions.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "je.mendoza@live.com",
+    "phone": "",
+    "address": {
+      "street": "",
+      "city": "Seattle",
+      "state": "WA",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jesusemendoza/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jesusemendoza",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My background in the military and entrepreneurship taught me how to deliver actionable results in high pressure environments, and I'm excited about working with people who share my enthusiasm for solving complex problems with creative solutions.",
+    "education": [
+      {
+        "school": "CodeFellows",
+        "degree": "Certificate: Advanced Software Development Full Stack Javascript",
+        "graduated": "March 2018",
+        "description": "Learned how to Develop Fu"
+      },
+      {
+        "school": "North Seattle College",
+        "degree": "Coursework in Undergraduate Studies in Engineering",
+        "graduated": "N/A",
+        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work": [
+      {
+        "company": "Trym",
+        "title": "Software Developer (Remote) ",
+        "years": "October 2018 - Present",
+        "description": "Frontend developer on ReactJS and React Native Applications used by farm shareholders and administrators to get growth analytics, manage their workforce and report compliance."
+      },
+      {
+        "company": "Freelance Software Developer",
+        "title": "Software Developer",
+        "years": "April 2018 - Present",
+        "description": "Have worked on various projects for various clients dealing primariliy with React and React Native."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "React Native",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "JSON",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "77%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Trym Grow App (iOS)",
+        "category": "A React Native Application for Cannabis farmers to manage their farm from their mobile device",
+        "image": "trym-grow-ios.png",
+        "url": "https://apps.apple.com/us/app/trym-app/id1434805140"
+      },
+      {
+        "title": "Trym Grow App (Android)",
+        "category": "A React Native Application for Cannabis farmers to manage their farm from their mobile device",
+        "image": "trym-grow-android.jpg",
+        "url": "https://play.google.com/store/apps/details?id=com.trymapp"
+      },
+      {
+        "title": "Trym Explore App",
+        "category": "A ReactJS web application used by farmers to manage their grow operations, workforce and compliance",
+        "image": "trym-explore.png",
+        "url": "https://trym.io/technology/"
+      },
+      {
+        "title": "Easteros",
+        "category": "(MVP Only) A 2D plaformer game I helped create for a group project.",
+        "image": "easteros.png",
+        "url": "https://jesusemendoza.github.io/easteros/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
