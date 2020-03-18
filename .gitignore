@@ -1,2 +1,8 @@
 # Dependency directories
 node_modules/
+
+# Build Folders
+build/
+
+# Firebase
+.firebase/
