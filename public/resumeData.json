@@ -35,20 +35,20 @@
       {
         "school": "CodeFellows",
         "degree": "Certificate: Advanced Software Development Full Stack Javascript",
-        "graduated": "March 2018",
+        "graduated": "2017-2018",
         "description": "Learned how to Develop Fu"
       },
       {
         "school": "North Seattle College",
         "degree": "Coursework in Undergraduate Studies in Engineering",
-        "graduated": "N/A",
+        "graduated": "2015-2017",
         "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work": [
       {
         "company": "Trym",
-        "title": "Software Developer (Remote) ",
+        "title": "Software Developer",
         "years": "October 2018 - Present",
         "description": "Frontend developer on ReactJS and React Native Applications used by farm shareholders and administrators to get growth analytics, manage their workforce and report compliance."
       },
